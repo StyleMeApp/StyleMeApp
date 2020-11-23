@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: Style Me app
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Style Me app Landing page
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://jekynewage.github.io" # the base hostname & protocol for your site
@@ -17,14 +17,12 @@ disqus_account: jeky-new-age
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
-  - title: twitter
-    url: https://twitter.com/lantoniotrento
-  - title: facebook
-    url: https://facebook.com/lantoniotrento
-  - title: google-plus
-    url: https://plus.google.com/+AntoniotrentoIt
-  #- title: github
-  #  url: http://github.com/jekyll
+  # - title: twitter
+  #   url: https://twitter.com/user
+  # - title: facebook
+  #   url: https://facebook.com/user
+  - title: github
+    url: https://github.com/HairdressingProject/styleme
 
 # Build settings
 markdown: kramdown
