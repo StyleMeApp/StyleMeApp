@@ -4,7 +4,7 @@ email:
 description: Style Me app Landing page
 
 # source: "https://github.com/HairdressingProject/StyleMeApp/"
-baseurl: "/StyleMeApp" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 # url: "https://hairdressingproject.github.io/StyleMeApp/" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
